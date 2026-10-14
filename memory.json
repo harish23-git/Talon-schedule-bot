@@ -9,17 +9,6 @@
         "type": "Meeting",
         "remark": "AI town Hall",
         "dispatch_sent": false,
-        "weather_status": "ERROR"
-    },
-    {
-        "date": "14 OCT",
-        "time": "18:00 - 06:00 (+1D)",
-        "status": "Scheduled",
-        "ip": "TBD",
-        "res": "TBD",
-        "lesson": "UNKNOWN",
-        "type": "Rest Period",
-        "remark": "",
-        "dispatch_sent": false
+        "weather_status": "GO"
     }
 ]
