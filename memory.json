@@ -9,7 +9,7 @@
         "type": "Meeting",
         "remark": "AI town Hall",
         "dispatch_sent": false,
-        "weather_status": "GO"
+        "weather_status": "ERROR"
     },
     {
         "date": "14 OCT",
