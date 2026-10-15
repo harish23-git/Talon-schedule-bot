@@ -2,13 +2,24 @@
     {
         "date": "15 OCT",
         "time": "08:30 - 11:30",
-        "status": "Ops Check In",
+        "status": "Completed",
         "ip": "Andrews, Mason",
         "res": "742PA (NXi)",
-        "lesson": "PPL 1.3-Flight",
+        "lesson": "PPL 1.2-Flight",
         "type": "Flight",
         "remark": "Ramp Out",
         "dispatch_sent": false,
-        "changes_text": "  \u2022 Aircraft: PA28-181G -> 742PA (NXi)\n  \u2022 Status: Scheduled -> Ops Check In"
+        "changes_text": "  \u2022 Lesson: PPL 1.3-Flight -> PPL 1.2-Flight\n  \u2022 Status: Ops Check In -> Completed"
+    },
+    {
+        "date": "16 OCT",
+        "time": "08:00 - 11:00",
+        "status": "Scheduling",
+        "ip": "Andrews, Mason",
+        "res": "PA28-181G",
+        "lesson": "PPL 1.3-Flight",
+        "type": "Flight",
+        "remark": "The schedule has not yet been posted for this day",
+        "weather_status": "NO-GO"
     }
 ]
