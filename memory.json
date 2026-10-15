@@ -8,17 +8,19 @@
         "lesson": "UNKNOWN",
         "type": "Meeting",
         "remark": "AI town Hall",
-        "dispatch_sent": true,
-        "weather_status": "GO"
+        "dispatch_sent": true
     },
     {
         "date": "15 OCT",
         "time": "08:30 - 11:30",
-        "status": "Scheduling",
+        "status": "Scheduled",
         "ip": "Andrews, Mason",
         "res": "PA28-181G",
         "lesson": "PPL 1.3-Flight",
         "type": "Flight",
-        "remark": "The schedule has not yet been posted for this day"
+        "remark": "Ramp Out",
+        "dispatch_sent": false,
+        "changes_text": "  \u2022 Status: Scheduling -> Scheduled\n  \u2022 Remarks: 'Ramp Out'",
+        "weather_status": "NO-GO"
     }
 ]
