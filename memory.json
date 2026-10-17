@@ -19,6 +19,7 @@
         "lesson": "PPL 1.2-Flight",
         "type": "Flight",
         "remark": "Ramp Out",
+        "dispatch_sent": false,
         "weather_status": "NO-GO"
     },
     {
@@ -29,7 +30,8 @@
         "res": "TBD",
         "lesson": "UNKNOWN",
         "type": "Rest Period",
-        "remark": ""
+        "remark": "",
+        "dispatch_sent": false
     },
     {
         "date": "22 OCT",
