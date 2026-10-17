@@ -2,14 +2,14 @@
     {
         "date": "17 OCT",
         "time": "13:00 - 16:00",
-        "status": "Scheduled",
+        "status": "CancelledWX - Winds",
         "ip": "Andrews, Mason",
         "res": "PA28-181G",
         "lesson": "PPL 1.2-Flight",
         "type": "Flight",
         "remark": "Ramp Out",
         "dispatch_sent": true,
-        "weather_status": "NO-GO"
+        "changes_text": "  \u2022 Status: Scheduled -> CancelledWX - Winds"
     },
     {
         "date": "17 OCT",
@@ -30,7 +30,9 @@
         "res": "PA28-181G",
         "lesson": "PPL 1.3-Flight",
         "type": "Flight",
-        "remark": "The schedule has not yet been posted for this day"
+        "remark": "The schedule has not yet been posted for this day",
+        "dispatch_sent": false,
+        "weather_status": "GO"
     },
     {
         "date": "22 OCT",
