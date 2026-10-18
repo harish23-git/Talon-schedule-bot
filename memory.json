@@ -8,8 +8,7 @@
         "lesson": "PPL 1.2-Flight",
         "type": "Flight",
         "remark": "Ramp Out",
-        "dispatch_sent": true,
-        "changes_text": "  \u2022 Status: Ramp Out -> Completed"
+        "dispatch_sent": true
     },
     {
         "date": "22 OCT",
