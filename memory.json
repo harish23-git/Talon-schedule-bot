@@ -1,16 +1,5 @@
 [
     {
-        "date": "18 OCT",
-        "time": "08:00 - 11:00",
-        "status": "Completed",
-        "ip": "Andrews, Mason",
-        "res": "195MA (NXi)",
-        "lesson": "PPL 1.2-Flight",
-        "type": "Flight",
-        "remark": "Ramp Out",
-        "dispatch_sent": true
-    },
-    {
         "date": "22 OCT",
         "time": "06:30 - 10:00",
         "status": "Scheduled",
