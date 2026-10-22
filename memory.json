@@ -19,8 +19,7 @@
         "lesson": "PPL 1.3-Flight",
         "type": "Flight",
         "remark": "Ramp Out",
-        "dispatch_sent": false,
-        "changes_text": "  \u2022 Aircraft: PA28-181G -> 819PA (NXi)",
+        "dispatch_sent": true,
         "weather_status": "GO"
     },
     {
