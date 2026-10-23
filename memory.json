@@ -1,38 +1,5 @@
 [
     {
-        "date": "22 OCT",
-        "time": "06:30 - 10:00",
-        "status": "Scheduled",
-        "ip": "TBD",
-        "res": "TBD",
-        "lesson": "UNKNOWN",
-        "type": "FAA Written Test",
-        "remark": "PAR- FAA Written Test",
-        "dispatch_sent": false
-    },
-    {
-        "date": "22 OCT",
-        "time": "14:00 - 17:00",
-        "status": "CancelledWX - Winds",
-        "ip": "Andrews, Mason",
-        "res": "819PA (NXi)",
-        "lesson": "PPL 1.3-Flight",
-        "type": "Flight",
-        "remark": "Ramp Out",
-        "dispatch_sent": true
-    },
-    {
-        "date": "22 OCT",
-        "time": "17:00 - 05:00 (+1D)",
-        "status": "Scheduled",
-        "ip": "TBD",
-        "res": "TBD",
-        "lesson": "UNKNOWN",
-        "type": "Rest Period",
-        "remark": "",
-        "dispatch_sent": false
-    },
-    {
         "date": "23 OCT",
         "time": "07:30 - 10:30",
         "status": "Scheduled",
@@ -43,5 +10,15 @@
         "remark": "Ramp Out",
         "dispatch_sent": false,
         "weather_status": "GO"
+    },
+    {
+        "date": "29 OCT",
+        "time": "13:00 - 15:00",
+        "status": "Scheduled",
+        "ip": "TBD",
+        "res": "DVT Bldg 3 - A",
+        "lesson": "UNKNOWN",
+        "type": "Meeting",
+        "remark": "Landing Brief"
     }
 ]
