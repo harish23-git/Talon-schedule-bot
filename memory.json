@@ -4,12 +4,12 @@
         "time": "07:30 - 10:30",
         "status": "Scheduled",
         "ip": "Andrews, Mason",
-        "res": "PA28-181G",
+        "res": "195MA (NXi)",
         "lesson": "PPL 1.4-Flight",
         "type": "Flight",
         "remark": "Ramp Out",
         "dispatch_sent": false,
-        "weather_status": "GO"
+        "changes_text": "  \u2022 Aircraft: PA28-181G -> 195MA (NXi)"
     },
     {
         "date": "29 OCT",
@@ -19,6 +19,8 @@
         "res": "DVT Bldg 3 - A",
         "lesson": "UNKNOWN",
         "type": "Meeting",
-        "remark": "Landing Brief"
+        "remark": "Landing Brief",
+        "dispatch_sent": false,
+        "weather_status": "GO"
     }
 ]
