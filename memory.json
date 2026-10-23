@@ -2,14 +2,14 @@
     {
         "date": "23 OCT",
         "time": "07:30 - 10:30",
-        "status": "Scheduled",
+        "status": "CancelledNo Show Cancel",
         "ip": "Andrews, Mason",
-        "res": "195MA (NXi)",
+        "res": "PA28-181G",
         "lesson": "PPL 1.4-Flight",
         "type": "Flight",
         "remark": "Ramp Out",
         "dispatch_sent": false,
-        "changes_text": "  \u2022 Aircraft: PA28-181G -> 195MA (NXi)"
+        "changes_text": "  \u2022 Aircraft: 195MA (NXi) -> PA28-181G\n  \u2022 Status: Scheduled -> CancelledNo Show Cancel"
     },
     {
         "date": "29 OCT",
