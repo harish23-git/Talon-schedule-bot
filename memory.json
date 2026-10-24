@@ -1,16 +1,5 @@
 [
     {
-        "date": "23 OCT",
-        "time": "07:30 - 10:30",
-        "status": "CancelledNo Show Cancel",
-        "ip": "Andrews, Mason",
-        "res": "PA28-181G",
-        "lesson": "PPL 1.4-Flight",
-        "type": "Flight",
-        "remark": "Ramp Out",
-        "dispatch_sent": false
-    },
-    {
         "date": "29 OCT",
         "time": "13:00 - 15:00",
         "status": "Scheduled",
