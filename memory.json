@@ -4,11 +4,12 @@
         "time": "09:45 - 12:45",
         "status": "Scheduled",
         "ip": "Andrews, Mason",
-        "res": "PA28-181G",
+        "res": "271AG (NXI)",
         "lesson": "PPL 1.4-Flight",
         "type": "Flight",
         "remark": "Ramp Out",
-        "dispatch_sent": false,
+        "dispatch_sent": true,
+        "changes_text": "  \u2022 Aircraft: PA28-181G -> 271AG (NXI)",
         "weather_status": "GO"
     },
     {
