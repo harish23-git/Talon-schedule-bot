@@ -2,14 +2,14 @@
     {
         "date": "25 OCT",
         "time": "09:45 - 12:45",
-        "status": "Ramp Out",
+        "status": "Completed",
         "ip": "Andrews, Mason",
         "res": "271AG (NXI)",
         "lesson": "PPL 1.3-Flight",
         "type": "Flight",
         "remark": "Ramp Out",
         "dispatch_sent": true,
-        "changes_text": "  \u2022 Lesson: PPL 1.4-Flight -> PPL 1.3-Flight\n  \u2022 Status: Scheduled -> Ramp Out"
+        "changes_text": "  \u2022 Status: Ramp Out -> Completed"
     },
     {
         "date": "29 OCT",
@@ -21,6 +21,6 @@
         "type": "Meeting",
         "remark": "Landing Brief",
         "dispatch_sent": false,
-        "weather_status": "ERROR"
+        "weather_status": "GO"
     }
 ]
