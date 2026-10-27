@@ -8,7 +8,18 @@
         "lesson": "PPL 1.4-Flight",
         "type": "Flight",
         "remark": "The schedule has not yet been posted for this day",
+        "dispatch_sent": false,
         "weather_status": "GO"
+    },
+    {
+        "date": "28 OCT",
+        "time": "17:30 - 05:30 (+1D)",
+        "status": "Scheduled",
+        "ip": "TBD",
+        "res": "TBD",
+        "lesson": "UNKNOWN",
+        "type": "Rest Period",
+        "remark": ""
     },
     {
         "date": "29 OCT",
