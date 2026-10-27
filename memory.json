@@ -1,5 +1,16 @@
 [
     {
+        "date": "28 OCT",
+        "time": "14:30 - 17:30",
+        "status": "Scheduling",
+        "ip": "Andrews, Mason",
+        "res": "PA28-181G",
+        "lesson": "PPL 1.4-Flight",
+        "type": "Flight",
+        "remark": "The schedule has not yet been posted for this day",
+        "weather_status": "GO"
+    },
+    {
         "date": "29 OCT",
         "time": "13:00 - 15:00",
         "status": "Scheduled",
@@ -8,7 +19,6 @@
         "lesson": "UNKNOWN",
         "type": "Meeting",
         "remark": "Landing Brief",
-        "dispatch_sent": false,
-        "weather_status": "GO"
+        "dispatch_sent": false
     }
 ]
