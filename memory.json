@@ -2,14 +2,14 @@
     {
         "date": "29 OCT",
         "time": "08:30 - 11:30",
-        "status": "Scheduled",
+        "status": "Pend A/C",
         "ip": "Andrews, Mason",
         "res": "PA28-181G",
         "lesson": "PPL 1.4-Flight",
         "type": "Flight",
         "remark": "Ramp Out",
         "dispatch_sent": false,
-        "weather_status": "GO"
+        "changes_text": "  \u2022 Status: Scheduled -> Pend A/C"
     },
     {
         "date": "29 OCT",
@@ -20,6 +20,17 @@
         "lesson": "UNKNOWN",
         "type": "Meeting",
         "remark": "Landing Brief",
-        "dispatch_sent": false
+        "dispatch_sent": true,
+        "weather_status": "GO"
+    },
+    {
+        "date": "30 OCT",
+        "time": "09:00 - 12:00",
+        "status": "Scheduling",
+        "ip": "Andrews, Mason",
+        "res": "PA28-181G",
+        "lesson": "PPL 1.5-Flight",
+        "type": "Flight",
+        "remark": "The schedule has not yet been posted for this day"
     }
 ]
