@@ -1,27 +1,5 @@
 [
     {
-        "date": "28 OCT",
-        "time": "14:30 - 17:30",
-        "status": "CancelledN/A Aircraft",
-        "ip": "Andrews, Mason",
-        "res": "PA28-181G",
-        "lesson": "PPL 1.4-Flight",
-        "type": "Flight",
-        "remark": "Ramp Out",
-        "dispatch_sent": true
-    },
-    {
-        "date": "28 OCT",
-        "time": "17:30 - 05:30 (+1D)",
-        "status": "Scheduled",
-        "ip": "TBD",
-        "res": "TBD",
-        "lesson": "UNKNOWN",
-        "type": "Rest Period",
-        "remark": "",
-        "dispatch_sent": false
-    },
-    {
         "date": "29 OCT",
         "time": "08:30 - 11:30",
         "status": "Scheduled",
