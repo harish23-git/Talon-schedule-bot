@@ -1,27 +1,5 @@
 [
     {
-        "date": "29 OCT",
-        "time": "08:30 - 11:30",
-        "status": "CancelledN/A Aircraft",
-        "ip": "Andrews, Mason",
-        "res": "PA28-181G",
-        "lesson": "PPL 1.4-Flight",
-        "type": "Flight",
-        "remark": "Ramp Out",
-        "dispatch_sent": false
-    },
-    {
-        "date": "29 OCT",
-        "time": "13:00 - 15:00",
-        "status": "Scheduled",
-        "ip": "TBD",
-        "res": "DVT Bldg 3 - A",
-        "lesson": "UNKNOWN",
-        "type": "Meeting",
-        "remark": "Landing Brief",
-        "dispatch_sent": true
-    },
-    {
         "date": "30 OCT",
         "time": "15:00 - 18:00",
         "status": "Scheduled",
@@ -31,8 +9,7 @@
         "type": "Flight",
         "remark": "Ramp Out",
         "dispatch_sent": false,
-        "changes_text": "  \u2022 Status: Scheduling -> Scheduled\n  \u2022 Remarks: 'Ramp Out'",
-        "weather_status": "ERROR"
+        "weather_status": "NO-GO"
     },
     {
         "date": "30 OCT",
