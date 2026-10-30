@@ -2,15 +2,14 @@
     {
         "date": "30 OCT",
         "time": "15:00 - 18:00",
-        "status": "Scheduled",
+        "status": "CancelledWX - T-Storm",
         "ip": "Andrews, Mason",
         "res": "176AG (NXI)",
         "lesson": "PPL 1.5-Flight",
         "type": "Flight",
         "remark": "Ramp Out",
         "dispatch_sent": true,
-        "changes_text": "  \u2022 Aircraft: PA28-181G -> 176AG (NXI)",
-        "weather_status": "GO"
+        "changes_text": "  \u2022 Status: Scheduled -> CancelledWX - T-Storm"
     },
     {
         "date": "30 OCT",
@@ -26,11 +25,14 @@
     {
         "date": "31 OCT",
         "time": "11:00 - 14:00",
-        "status": "Scheduling",
+        "status": "Scheduled",
         "ip": "Andrews, Mason",
         "res": "PA28-181G",
         "lesson": "PPL 1.4-Flight",
         "type": "Flight",
-        "remark": "The schedule has not yet been posted for this day"
+        "remark": "Ramp Out",
+        "dispatch_sent": false,
+        "changes_text": "  \u2022 Status: Scheduling -> Scheduled\n  \u2022 Remarks: 'Ramp Out'",
+        "weather_status": "GO"
     }
 ]
