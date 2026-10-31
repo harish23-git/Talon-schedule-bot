@@ -8,8 +8,7 @@
         "lesson": "PPL 1.5-Flight",
         "type": "Flight",
         "remark": "Ramp Out",
-        "dispatch_sent": true,
-        "changes_text": "  \u2022 Status: Scheduled -> CancelledWX - T-Storm"
+        "dispatch_sent": true
     },
     {
         "date": "30 OCT",
@@ -32,7 +31,6 @@
         "type": "Flight",
         "remark": "Ramp Out",
         "dispatch_sent": false,
-        "changes_text": "  \u2022 Status: Scheduling -> Scheduled\n  \u2022 Remarks: 'Ramp Out'",
         "weather_status": "GO"
     }
 ]
