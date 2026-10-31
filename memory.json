@@ -8,8 +8,7 @@
         "lesson": "PPL 1.4-Flight",
         "type": "Flight",
         "remark": "Ramp Out",
-        "dispatch_sent": true,
-        "changes_text": "  \u2022 Status: Scheduled -> CancelledN/A Aircraft"
+        "dispatch_sent": true
     },
     {
         "date": "01 NOV",
@@ -20,6 +19,17 @@
         "lesson": "PPL 1.5-Flight",
         "type": "Flight",
         "remark": "The schedule has not yet been posted for this day",
-        "weather_status": "NO-GO"
+        "dispatch_sent": false,
+        "weather_status": "GO"
+    },
+    {
+        "date": "01 NOV",
+        "time": "17:00 - 05:00 (+1D)",
+        "status": "Scheduled",
+        "ip": "TBD",
+        "res": "TBD",
+        "lesson": "UNKNOWN",
+        "type": "Rest Period",
+        "remark": ""
     }
 ]
