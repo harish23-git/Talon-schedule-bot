@@ -2,13 +2,24 @@
     {
         "date": "31 OCT",
         "time": "11:00 - 14:00",
-        "status": "Scheduled",
+        "status": "CancelledN/A Aircraft",
         "ip": "Andrews, Mason",
         "res": "PA28-181G",
         "lesson": "PPL 1.4-Flight",
         "type": "Flight",
         "remark": "Ramp Out",
         "dispatch_sent": true,
-        "weather_status": "GO"
+        "changes_text": "  \u2022 Status: Scheduled -> CancelledN/A Aircraft"
+    },
+    {
+        "date": "01 NOV",
+        "time": "14:00 - 17:00",
+        "status": "Scheduling",
+        "ip": "Andrews, Mason",
+        "res": "PA28-181G",
+        "lesson": "PPL 1.5-Flight",
+        "type": "Flight",
+        "remark": "The schedule has not yet been posted for this day",
+        "weather_status": "NO-GO"
     }
 ]
